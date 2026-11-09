@@ -1,3 +1,5 @@
+<img width="1545" height="748" alt="image" src="https://github.com/user-attachments/assets/1226e202-9e38-4c41-ac58-ed8080f98506" />
+
 # 🚗 Car Sales Analysis Dashboard | Power BI
 
 ## Project Overview
